@@ -25,7 +25,7 @@ Check out all of the submissions below! Well done everyone!
 - Katsu Tsushima - [Github](https://github.com/KatsuTsushima) | [View Live](https://katsutsushima.github.io/QuizApp/)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
-
+- Kelly Cristhiane Silva - [Github](https://github.com/Kell-C/quote-generator) | [View Live](https://kell-c.github.io/quote-generator/)
 - Corey Uebelacker - [Github](https://github.com/acoreyu/quote-generator) | [View Live](https://acoreyu.github.io/quote-generator/)
 - Subin Vidhu - [Github](https://github.com/Subin-Vidhu/quote-generator) | [View Live](https://subin-vidhu.github.io/quote-generator/)
 - Ashok - [Github](https://github.com/Ashoka2002/js-project-1-quote-generator) | [View Live](https://ashoka2002.github.io/js-project-1-quote-generator/)
